@@ -1,0 +1,502 @@
+Grafana
+
+Explore
+Loki
+
+Metrics
+
+Logs
+
+ Split
+
+Last 2 days
+
+
+ Clear All
+
+ Run Query
+
+  Live
+Log labels
+{﻿server﻿=~﻿"(spawn|zone).*"﻿}﻿ ﻿|﻿="Truspira " ﻿|﻿="ghxstkvge"
+Line limit
+auto
+13.6s
+
+
+
+ Add query
+
+ Query history
+Logs
+01/14 14:0001/14 16:0001/14 18:0001/14 20:0001/14 22:0001/15 00:0001/15 02:0001/15 04:0001/15 06:0001/15 08:0001/15 10:0001/15 12:0001/15 14:0001/15 16:0001/15 18:0001/15 20:0001/15 22:0001/16 00:0001/16 02:0001/16 04:0001/16 06:0001/16 08:0001/16 10:0001/16 12:000246810
+info
+Time
+
+Unique labels
+
+Wrap lines
+
+Dedup
+
+none
+
+exact
+
+numbers
+
+signature
+Common labels:
+server_logs
+Limit:
+1000 (224 returned)
+Total bytes processed:
+3 GB
+2021-01-16 13:05:50	
+[18:05:49] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I dotn have that much beacue you took it all
+2021-01-16 13:05:50	
+[18:05:49] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I dotn have that much beacue you took it all
+2021-01-16 13:05:29	
+[18:05:29] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge No I want my money back
+2021-01-16 13:05:29	
+[18:05:29] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: No I want my money back
+2021-01-16 13:05:22	
+[18:05:22] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira giveme 160k and ill give you a strawberry elytra
+2021-01-16 13:04:58	
+[18:04:58] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please
+2021-01-16 13:04:58	
+[18:04:58] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please
+2021-01-16 13:02:35	
+[18:02:35] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Is that too much to ask?
+2021-01-16 13:02:35	
+[18:02:35] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Is that too much to ask?
+2021-01-16 13:02:27	
+[18:02:27] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge You scammer please I just want my money
+2021-01-16 13:02:27	
+[18:02:27] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: You scammer please I just want my money
+2021-01-16 13:00:04	
+[18:00:04] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: You scamme
+2021-01-16 13:00:04	
+[18:00:04] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge You scamme
+2021-01-16 12:59:42	
+[17:59:42] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please :(
+2021-01-16 12:59:42	
+[17:59:42] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please :(
+2021-01-16 12:59:35	
+[17:59:35] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira go away
+2021-01-16 12:59:26	
+[17:59:26] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please can I just have my money back...
+2021-01-16 12:59:26	
+[17:59:26] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please can I just have my money back...
+2021-01-16 12:58:50	
+[17:58:50] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please can ij ust have my money
+2021-01-16 12:58:50	
+[17:58:50] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please can ij ust have my money
+2021-01-16 12:58:48	
+[17:58:47] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please can ij ust have my money
+2021-01-16 12:58:47	
+[17:58:47] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please can ij ust have my money
+2021-01-16 12:58:01	
+[17:58:01] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please can ij ust have my money
+2021-01-16 12:58:01	
+[17:58:01] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please can ij ust have my money
+2021-01-16 12:57:49	
+[17:57:49] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira lol
+2021-01-16 12:57:32	
+[17:57:32] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I just told my brother and he is crying... he is 5
+2021-01-16 12:57:32	
+[17:57:32] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I just told my brother and he is crying... he is 5
+2021-01-16 12:57:16	
+[17:57:16] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: You said you would
+2021-01-16 12:57:16	
+[17:57:16] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge You said you would
+2021-01-16 12:57:11	
+[17:57:11] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: PLEASE
+2021-01-16 12:57:11	
+[17:57:11] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge PLEASE
+2021-01-16 12:57:02	
+[17:57:01] [Server thread/INFO]: Truspira issued server command: /bal ghxstkvge
+2021-01-16 12:57:01	
+[17:57:01] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira no lol
+2021-01-16 12:56:51	
+[17:56:51] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Give me my money back and I will buy your elytra on ah
+2021-01-16 12:56:51	
+[17:56:51] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Give me my money back and I will buy your elytra on ah
+2021-01-16 12:56:39	
+[17:56:39] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira ok and
+2021-01-16 12:56:07	
+[17:56:07] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira ok and
+2021-01-16 12:55:59	
+[17:55:59] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: My brother is 5...
+2021-01-16 12:55:59	
+[17:55:59] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge My brother is 5...
+2021-01-16 12:55:40	
+[17:55:39] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge You know you have it. Please
+2021-01-16 12:55:40	
+[17:55:39] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: You know you have it. Please
+2021-01-16 12:55:29	
+[17:55:29] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge My 320 thousand
+2021-01-16 12:55:29	
+[17:55:29] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: My 320 thousand
+2021-01-16 12:55:19	
+[17:55:19] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: No i just want my money backl
+2021-01-16 12:55:19	
+[17:55:19] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge No i just want my money backl
+2021-01-16 12:55:10	
+[17:55:10] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira im selling elytra on ah if you wanna buy
+2021-01-16 12:54:51	
+[17:54:51] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge thats the truth
+2021-01-16 12:54:51	
+[17:54:51] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: thats the truth
+2021-01-16 12:54:26	
+[17:54:26] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I msorry I jsut wanted to try to find a way to get my money back im sorry Ijust want my money back thats all
+2021-01-16 12:54:26	
+[17:54:26] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I msorry I jsut wanted to try to find a way to get my money back im sorry Ijust want my money back thats all
+2021-01-16 12:54:09	
+[17:54:09] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira that why you got the fake mod
+2021-01-16 12:53:58	
+[17:53:58] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira that why you got the mod to msg me?
+2021-01-16 12:53:54	
+[17:53:54] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I just wanted my money back for my little brother. He worked hard and he said can you get me an elytra so I did and I just wanted an elytra for im and me to play
+2021-01-16 12:53:54	
+[17:53:54] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I just wanted my money back for my little brother. He worked hard and he said can you get me an elytra so I did and I just wanted an elytra for im and me to play
+2021-01-16 12:53:47	
+[17:53:47] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira that why you got the mod to msg me?
+2021-01-16 12:53:38	
+[17:53:38] [Server thread/INFO]: Truspira issued server command: /tpa ghxstkvge
+2021-01-16 12:53:22	
+[17:53:22] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I just wanted my money back for my little brother. He worked hard and he said can you get me an elytra so I did and I just wanted an elytra for im and me to play
+2021-01-16 12:53:22	
+[17:53:22] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I just wanted my money back for my little brother. He worked hard and he said can you get me an elytra so I did and I just wanted an elytra for im and me to play
+2021-01-16 12:52:57	
+[17:52:57] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira tell me then i give stuff
+2021-01-16 12:52:45	
+[17:52:45] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Promise
+2021-01-16 12:52:45	
+[17:52:45] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Promise
+2021-01-16 12:52:40	
+[17:52:40] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Ok I will tell you
+2021-01-16 12:52:40	
+[17:52:40] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Ok I will tell you
+2021-01-16 12:52:34	
+[17:52:33] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira why did you get the fake mod to message me tell me the truth and i give you elytra and 400k
+2021-01-16 12:52:27	
+[17:52:27] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira why did you get the fake mod to message me tell me the truth and i give you elytra and 400k
+2021-01-16 12:52:24	
+[17:52:24] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge All I want is my money back
+2021-01-16 12:52:24	
+[17:52:24] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: All I want is my money back
+2021-01-16 12:52:11	
+[17:52:11] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Why man, you scammed me. I just wanted to have fun with my friend and you ruined it
+2021-01-16 12:52:11	
+[17:52:11] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Why man, you scammed me. I just wanted to have fun with my friend and you ruined it
+2021-01-16 12:51:42	
+[17:51:41] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Why man, you scammed me. I just wanted to have fun with my friend and you ruined it
+2021-01-16 12:51:42	
+[17:51:41] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Why man, you scammed me. I just wanted to have fun with my friend and you ruined it
+2021-01-16 12:49:34	
+[17:49:34] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira v07 something lol there not real
+2021-01-16 12:48:40	
+[17:48:40] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira v07 something lol there not real
+2021-01-16 12:48:23	
+[17:48:23] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I didn't who?
+2021-01-16 12:48:22	
+[17:48:22] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I didn't who?
+2021-01-16 12:48:15	
+[17:48:15] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira why get a fake mod to msg me
+2021-01-16 12:48:12	
+[17:48:11] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Its for my little brother
+2021-01-16 12:48:11	
+[17:48:11] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Its for my little brother
+2021-01-16 12:47:57	
+[17:47:57] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge If you give me my 320k I will have enough to buy you an insanely op item on ah trust me please
+2021-01-16 12:47:57	
+[17:47:57] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: If you give me my 320k I will have enough to buy you an insanely op item on ah trust me please
+2021-01-16 12:47:46	
+[17:47:46] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira a fake mod messaged me lol
+2021-01-16 12:47:23	
+[17:47:22] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Im sorry for your loss, please pay me my 320k and I can make it up to you
+2021-01-16 12:47:22	
+[17:47:22] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Im sorry for your loss, please pay me my 320k and I can make it up to you
+2021-01-16 12:47:07	
+[17:47:07] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira so am i my gran just died
+2021-01-16 12:47:00	
+[17:46:59] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Its for my little brother
+2021-01-16 12:47:00	
+[17:46:59] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Its for my little brother
+2021-01-16 12:46:52	
+[17:46:52] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me my money back please im crying rn
+2021-01-16 12:46:52	
+[17:46:52] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me my money back please im crying rn
+2021-01-16 12:43:51	
+[17:43:51] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge i have reported you
+2021-01-16 12:43:51	
+[17:43:51] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: i have reported you
+2021-01-16 12:43:38	
+[17:43:38] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me my money back and I will not report you
+2021-01-16 12:43:38	
+[17:43:38] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me my money back and I will not report you
+2021-01-16 12:41:08	
+[17:41:07] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: V07TEX to ghxstkvge: Give Truspira money back he tells me you did a biases trade, i have checked the chat logs and you have. If the money is not returned then you will be banned for 32 days.
+2021-01-16 12:41:08	
+[17:41:07] [Server thread/INFO]: V07TEX issued server command: /msg ghxstkvge Give Truspira money back he tells me you did a biases trade, i have checked the chat logs and you have. If the money is not returned then you will be banned for 32 days.
+2021-01-16 12:40:53	
+[17:40:53] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me my money back and I will not report you
+2021-01-16 12:40:53	
+[17:40:53] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me my money back and I will not report you
+2021-01-16 12:40:51	
+[17:40:51] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i will report you if you dont go away
+2021-01-16 12:40:50	
+[17:40:50] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me my money back and I will not report you
+2021-01-16 12:40:50	
+[17:40:50] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me my money back and I will not report you
+2021-01-16 12:40:33	
+[17:40:33] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me my money back and I will not report you
+2021-01-16 12:40:33	
+[17:40:33] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me my money back and I will not report you
+2021-01-16 12:40:28	
+[17:40:28] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira im going to kill myself if you keep messaging me
+2021-01-16 12:40:08	
+[17:40:08] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Give me all my money back now or I will send the recording in and you will be perm banned
+2021-01-16 12:40:08	
+[17:40:08] [ArkJs Bukkit Executor - 10/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Give me all my money back now or I will send the recording in and you will be perm banned
+2021-01-16 12:40:00	
+[17:40:00] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Give me all my money back now or I will send the recording in and you will be perm banned
+2021-01-16 12:40:00	
+[17:40:00] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Give me all my money back now or I will send the recording in and you will be perm banned
+2021-01-16 12:39:57	
+[17:39:57] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira please my gran just died and your making me want to kill myself
+2021-01-16 12:39:32	
+[17:39:31] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I have recorded all of this you scammer
+2021-01-16 12:39:31	
+[17:39:31] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I have recorded all of this you scammer
+2021-01-16 12:39:16	
+[17:39:16] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i cant deal with this right now my gran just died and now your saying im going to get banned
+2021-01-16 12:39:01	
+[17:39:01] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please I worked really hard for this
+2021-01-16 12:39:01	
+[17:39:01] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please I worked really hard for this
+2021-01-16 12:38:42	
+[17:38:41] [Server thread/INFO]: Truspira issued server command: /balance ghxstkvge
+2021-01-16 12:38:38	
+[17:38:38] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I mnot scamming you scammed me
+2021-01-16 12:38:38	
+[17:38:38] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I mnot scamming you scammed me
+2021-01-16 12:38:31	
+[17:38:31] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira go away please scammer
+2021-01-16 12:38:18	
+[17:38:18] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: GIVE ME MY MONEY
+2021-01-16 12:38:18	
+[17:38:18] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge GIVE ME MY MONEY
+2021-01-16 12:38:16	
+[17:38:16] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira selling stuff on the ah
+2021-01-16 12:38:03	
+[17:38:03] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge How else do you think you got 320k
+2021-01-16 12:38:03	
+[17:38:03] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: How else do you think you got 320k
+2021-01-16 12:38:02	
+[17:38:01] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i litrally just got my account back andi dont want to be banned but your trying to scam so bye
+2021-01-16 12:37:42	
+[17:37:41] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I have recored the moment you scammed me so I know what you are doing. Send it or else you risk being banned
+2021-01-16 12:37:41	
+[17:37:41] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I have recored the moment you scammed me so I know what you are doing. Send it or else you risk being banned
+2021-01-16 12:37:22	
+[17:37:21] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I have recored the moment you scammed me so I know what you are doing. Send it or else you risk being banned
+2021-01-16 12:37:22	
+[17:37:21] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I have recored the moment you scammed me so I know what you are doing. Send it or else you risk being banned
+2021-01-16 12:36:53	
+[17:36:53] [Server thread/INFO]: ghxstkvge issued server command: /msg Truspira i cant cos idk if your lying
+2021-01-16 12:36:37	
+[17:36:36] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I will buy you a netherite chestplate if u do
+2021-01-16 12:36:36	
+[17:36:36] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I will buy you a netherite chestplate if u do
+2021-01-16 12:36:24	
+[17:36:24] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Send it to me trust me
+2021-01-16 12:36:24	
+[17:36:24] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Send it to me trust me
+2021-01-16 12:36:09	
+[17:36:09] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i didnt do anything i just got my account back sorrry i want to help but i cant just give you money cos you say so you could be lying
+2021-01-16 12:36:01	
+[17:36:01] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Send me 320000 or else you will be banned you have my money
+2021-01-16 12:36:01	
+[17:36:01] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Send me 320000 or else you will be banned you have my money
+2021-01-16 12:35:37	
+[17:35:37] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Send me 320000 or else you will be banned you have my money
+2021-01-16 12:35:37	
+[17:35:37] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Send me 320000 or else you will be banned you have my money
+2021-01-16 12:35:28	
+[17:35:27] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Send me 320000 or else you will be banned you have my money
+2021-01-16 12:35:28	
+[17:35:27] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Send me 320000 or else you will be banned you have my money
+2021-01-16 12:35:11	
+[17:35:11] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: 320000 or else you will be banned
+2021-01-16 12:35:11	
+[17:35:11] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge 320000 or else you will be banned
+2021-01-16 12:34:58	
+[17:34:58] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge 320000 or else you will be banned
+2021-01-16 12:34:58	
+[17:34:58] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: 320000 or else you will be banned
+2021-01-16 12:34:54	
+[17:34:53] [Server thread/INFO]: ghxstkvge issued server command: /pay Truspira 320k
+2021-01-16 12:34:50	
+[17:34:49] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: 320000
+2021-01-16 12:34:50	
+[17:34:49] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge 320000
+2021-01-16 12:34:37	
+[17:34:37] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: 320000
+2021-01-16 12:34:37	
+[17:34:37] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge 320000
+2021-01-16 12:34:29	
+[17:34:29] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i paid 320
+2021-01-16 12:34:28	
+[17:34:28] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Sen me 320 thousand or you will be banned
+2021-01-16 12:34:28	
+[17:34:28] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Sen me 320 thousand or you will be banned
+2021-01-16 12:34:17	
+[17:34:16] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Thats the amount taken from me
+2021-01-16 12:34:17	
+[17:34:16] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Thats the amount taken from me
+2021-01-16 12:34:07	
+[17:34:07] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge SEND ME 320 THOUSAND
+2021-01-16 12:34:07	
+[17:34:07] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: SEND ME 320 THOUSAND
+2021-01-16 12:33:58	
+[17:33:57] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge NOT 320
+2021-01-16 12:33:57	
+[17:33:57] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: NOT 320
+2021-01-16 12:33:53	
+[17:33:53] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge SEND ME 320 THOUSAND
+2021-01-16 12:33:53	
+[17:33:53] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: SEND ME 320 THOUSAND
+2021-01-16 12:33:43	
+[17:33:43] [Server thread/INFO]: ghxstkvge issued server command: /pay Truspira 320
+2021-01-16 12:33:39	
+[17:33:39] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Just give me 320k and you wont be banned
+2021-01-16 12:33:39	
+[17:33:39] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Just give me 320k and you wont be banned
+2021-01-16 12:33:34	
+[17:33:33] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira no i dont know what your on about
+2021-01-16 12:33:19	
+[17:33:19] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: GIVE ME MY MONEY
+2021-01-16 12:33:19	
+[17:33:19] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge GIVE ME MY MONEY
+2021-01-16 12:33:08	
+[17:33:08] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i dont i have 150k and something called a vanilla elytra what is that
+2021-01-16 12:33:05	
+[17:33:05] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I can see your balance you have 520k
+2021-01-16 12:33:05	
+[17:33:05] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I can see your balance you have 520k
+2021-01-16 12:32:47	
+[17:32:47] [Server thread/INFO]: Truspira issued server command: /bal ghxstkvge
+2021-01-16 12:32:35	
+[17:32:35] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I know you do stop lying
+2021-01-16 12:32:35	
+[17:32:35] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I know you do stop lying
+2021-01-16 12:32:24	
+[17:32:24] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i dont have that much though
+2021-01-16 12:32:07	
+[17:32:07] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Ok but then please can you pay me 320k because whilst your accoutn was hacked you were paid 320k by me
+2021-01-16 12:32:07	
+[17:32:07] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Ok but then please can you pay me 320k because whilst your accoutn was hacked you were paid 320k by me
+2021-01-16 12:31:44	
+[17:31:44] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira i dont know what your on about do you not get it i only just got my account back after it was hacked
+2021-01-16 12:31:16	
+[17:31:16] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I paid you 320kShow context
+2021-01-16 12:31:16	
+[17:31:16] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I paid you 320k
+2021-01-16 12:31:10	
+[17:31:10] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Can I have the elytra please
+2021-01-16 12:31:10	
+[17:31:10] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Can I have the elytra please
+2021-01-16 12:30:51	
+[17:30:51] [Server thread/INFO]: Truspira issued server command: /tpa ghxstkvge
+2021-01-16 12:30:32	
+[17:30:32] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Please can I either have my 320k back or the elytra
+2021-01-16 12:30:32	
+[17:30:32] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Please can I either have my 320k back or the elytra
+2021-01-16 12:30:27	
+[17:30:27] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira im sorry i dont know who you are i just got my account back it was hacked
+2021-01-16 12:30:13	
+[17:30:13] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: And u logged off with my 320k wiythout my elytra
+2021-01-16 12:30:13	
+[17:30:13] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge And u logged off with my 320k wiythout my elytra
+2021-01-16 12:29:56	
+[17:29:56] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I paid you 320k for a vanilla elytra
+2021-01-16 12:29:56	
+[17:29:56] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I paid you 320k for a vanilla elytra
+2021-01-16 12:29:40	
+[17:29:40] [Server thread/INFO]: ghxstkvge issued server command: /m Truspira what elytra i just got my account back it was hacked
+2021-01-16 12:29:20	
+[17:29:20] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I want my elytra please
+2021-01-16 12:29:20	
+[17:29:20] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I want my elytra please
+2021-01-16 12:29:02	
+[17:29:02] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: Where is my elytra/
+2021-01-16 12:29:02	
+[17:29:02] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge Where is my elytra/
+2021-01-16 12:23:23	
+[17:23:23] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed ut
+2021-01-16 12:23:21	
+[17:23:20] [ArkJs Bukkit Executor - 14/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed ut
+2021-01-16 12:23:20	
+[17:23:20] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed ut
+2021-01-16 12:23:20	
+[17:23:20] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:20	
+[17:23:20] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:20	
+[17:23:20] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:20	
+[17:23:20] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:19	
+[17:23:19] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:19	
+[17:23:19] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:19	
+[17:23:19] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:19	
+[17:23:19] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:18	
+[17:23:18] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:18	
+[17:23:18] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:17	
+[17:23:17] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:17	
+[17:23:17] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:23:06	
+[17:23:06] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I payed u
+2021-01-16 12:23:06	
+[17:23:06] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I payed u
+2021-01-16 12:22:56	
+[17:22:56] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge WHERE IS THE ELYTRA
+2021-01-16 12:22:56	
+[17:22:56] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: WHERE IS THE ELYTRA
+2021-01-16 12:22:50	
+[17:22:50] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge
+2021-01-16 12:22:27	
+[17:22:27] [Server thread/INFO]: Truspira issued server command: /pay ghxstkvge 320000
+2021-01-16 12:21:56	
+[17:21:56] [Server thread/INFO]: Truspira issued server command: /trade ghxstkvge
+2021-01-16 12:21:45	
+[17:21:44] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I sent a tpa request
+2021-01-16 12:21:44	
+[17:21:44] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I sent a tpa request
+2021-01-16 12:21:36	
+[17:21:36] [Server thread/INFO]: ghxstkvge issued server command: /msg Truspira surw
+2021-01-16 12:21:27	
+[17:21:27] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge I want to tpa can I see it plz
+2021-01-16 12:21:27	
+[17:21:27] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: I want to tpa can I see it plz
+2021-01-16 12:21:18	
+[17:21:18] [Server thread/INFO]: ghxstkvge issued server command: /msg Truspira wanna buy or make an offer
+2021-01-16 12:21:08	
+[17:21:07] [Server thread/INFO]: Truspira issued server command: /tpa ghxstkvge
+2021-01-16 12:21:00	
+[17:21:00] [Server thread/INFO]: Truspira issued server command: /msg ghxstkvge ok
+2021-01-16 12:21:00	
+[17:21:00] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Truspira to ghxstkvge: ok
+2021-01-16 12:20:59	
+[17:20:59] [Server thread/INFO]: ghxstkvge issued server command: /msg Truspira im selling elytra for 320k if you wanna buy
+2021-01-16 12:20:44	
+[17:20:44] [Server thread/INFO]: ghxstkvge issued server command: /msg Truspira im selling elytra for 320k
