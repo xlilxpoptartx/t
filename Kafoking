@@ -1,0 +1,348 @@
+Grafana
+
+Explore
+Loki
+
+Metrics
+
+Logs
+
+ Split
+
+Last 2 days
+
+
+ Clear All
+
+ Run Query
+
+  Live
+Log labels
+{﻿server﻿=~﻿"(spawn|zone).*"﻿}﻿ ﻿|﻿="_3YF" ﻿|﻿="Kafoking"
+Line limit
+auto
+8.4s
+
+
+
+ Add query
+
+ Query history
+Logs
+02/05 10:0002/05 12:0002/05 14:0002/05 16:0002/05 18:0002/05 20:0002/05 22:0002/06 00:0002/06 02:0002/06 04:0002/06 06:0002/06 08:0002/06 10:0002/06 12:0002/06 14:0002/06 16:0002/06 18:0002/06 20:0002/06 22:0002/07 00:0002/07 02:0002/07 04:0002/07 06:0002/07 08:000246810
+info
+Time
+
+Unique labels
+
+Wrap lines
+
+Dedup
+
+none
+
+exact
+
+numbers
+
+signature
+Common labels:
+server_logs
+Limit:
+1000 (147 returned)
+Total bytes processed:
+2 GB
+2021-02-07 08:16:28	
+[13:16:28] [Server thread/INFO]: _3YF issued server command: /m Kafoking ummmm
+2021-02-07 08:13:19	
+[13:13:19] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/content/chathandler] (/g) _3YF: Kafoking Scamed Me For 9 MILL
+2021-02-07 08:12:59	
+[13:12:59] [Server thread/INFO]: _3YF issued server command: /m Kafoking i took screen shots of the chat
+2021-02-07 08:12:43	
+[13:12:42] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: pay me my 9mill or ima get a mod
+2021-02-07 08:12:42	
+[13:12:42] [Server thread/INFO]: _3YF issued server command: /m Kafoking pay me my 9mill or ima get a mod
+2021-02-07 08:12:24	
+[13:12:23] [Server thread/INFO]: _3YF issued server command: /m Kafoking i can see you have 10Mill
+2021-02-07 08:12:24	
+[13:12:23] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: i can see you have 10Mill
+2021-02-07 08:12:10	
+[13:12:10] [Server thread/INFO]: _3YF issued server command: /m Kafoking pay me mt 9mill back
+2021-02-07 08:12:06	
+[13:12:06] [Server thread/INFO]: _3YF issued server command: /bal Kafoking
+2021-02-07 08:11:24	
+[13:11:24] [Server thread/INFO]: _3YF issued server command: /m Kafoking no you dident
+2021-02-07 08:11:24	
+[13:11:24] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: no you dident
+2021-02-07 08:11:14	
+[13:11:14] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: bro i did
+2021-02-07 08:11:14	
+[13:11:14] [Server thread/INFO]: Kafoking issued server command: /m _3YF bro i did
+2021-02-07 08:11:06	
+[13:11:05] [Server thread/INFO]: _3YF issued server command: /m Kafoking pay me mt 9mill back
+2021-02-07 08:11:06	
+[13:11:05] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: pay me mt 9mill back
+2021-02-07 08:10:35	
+[13:10:35] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok im doing it
+2021-02-07 08:10:35	
+[13:10:35] [Server thread/INFO]: Kafoking issued server command: /m _3YF ok im doing it
+2021-02-07 08:10:26	
+[13:10:25] [Server thread/INFO]: _3YF issued server command: /m Kafoking pay me mt 9mill back
+2021-02-07 08:10:26	
+[13:10:25] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: pay me mt 9mill back
+2021-02-07 08:10:13	
+[13:10:13] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i dont know why
+2021-02-07 08:10:13	
+[13:10:13] [Server thread/INFO]: Kafoking issued server command: /m _3YF i dont know why
+2021-02-07 08:10:04	
+[13:10:03] [Server thread/INFO]: _3YF issued server command: /msg Kafoking i dont have any lbux still
+2021-02-07 08:10:04	
+[13:10:03] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: i dont have any lbux still
+2021-02-07 08:06:54	
+[13:06:53] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: idk why it isnt working
+2021-02-07 08:06:53	
+[13:06:53] [Server thread/INFO]: Kafoking issued server command: /m _3YF idk why it isnt working
+2021-02-07 08:06:41	
+[13:06:41] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: i dont have any lbux still
+2021-02-07 08:06:41	
+[13:06:41] [Server thread/INFO]: _3YF issued server command: /msg Kafoking i dont have any lbux still
+2021-02-07 08:06:24	
+[13:06:24] [Server thread/INFO]: Kafoking issued server command: /m _3YF yea
+2021-02-07 08:06:24	
+[13:06:24] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: yea
+2021-02-07 08:06:19	
+[13:06:19] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: did you do _3YF
+2021-02-07 08:06:19	
+[13:06:19] [Server thread/INFO]: _3YF issued server command: /msg Kafoking did you do _3YF
+2021-02-07 08:06:10	
+[13:06:10] [ArkJs Bukkit Executor - 10/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i have payed
+2021-02-07 08:06:10	
+[13:06:10] [Server thread/INFO]: Kafoking issued server command: /m _3YF i have payed
+2021-02-07 08:06:02	
+[13:06:02] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: i dont have any lbux still
+2021-02-07 08:06:02	
+[13:06:02] [Server thread/INFO]: _3YF issued server command: /msg Kafoking i dont have any lbux still
+2021-02-07 08:05:17	
+[13:05:17] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: pay me another 2m
+2021-02-07 08:05:17	
+[13:05:17] [Server thread/INFO]: Kafoking issued server command: /m _3YF pay me another 2m
+2021-02-07 08:05:15	
+[13:05:15] [Server thread/INFO]: _3YF issued server command: /m Kafoking ima relog
+2021-02-07 08:05:15	
+[13:05:15] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ima relog
+2021-02-07 08:05:08	
+[13:05:08] [Server thread/INFO]: Kafoking issued server command: /balance _3YF
+2021-02-07 08:05:05	
+[13:05:04] [Server thread/INFO]: _3YF issued server command: /m Kafoking ummm
+2021-02-07 08:05:05	
+[13:05:04] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ummm
+2021-02-07 08:04:51	
+[13:04:51] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i accedently payed u 10k lbux wtf
+2021-02-07 08:04:51	
+[13:04:51] [Server thread/INFO]: Kafoking issued server command: /m _3YF i accedently payed u 10k lbux wtf
+2021-02-07 08:04:31	
+[13:04:31] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: o shit
+2021-02-07 08:04:31	
+[13:04:31] [Server thread/INFO]: Kafoking issued server command: /m _3YF o shit
+2021-02-07 08:04:27	
+[13:04:26] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: yea
+2021-02-07 08:04:27	
+[13:04:26] [Server thread/INFO]: Kafoking issued server command: /m _3YF yea
+2021-02-07 08:04:21	
+[13:04:21] [Server thread/INFO]: _3YF issued server command: /m Kafoking did you do it
+2021-02-07 08:04:21	
+[13:04:21] [ArkJs Bukkit Executor - 14/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: did you do it
+2021-02-07 07:58:30	
+[12:58:30] [Server thread/INFO]: _3YF issued server command: /m Kafoking k
+2021-02-07 07:58:23	
+[12:58:23] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: im doing it again rip my money
+2021-02-07 07:58:11	
+[12:58:11] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok
+2021-02-07 07:58:07	
+[12:58:07] [Server thread/INFO]: _3YF issued server command: /m Kafoking you need to do _3YF
+2021-02-07 07:57:58	
+[12:57:58] [ArkJs Bukkit Executor - 17/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: what
+2021-02-07 07:57:55	
+[12:57:55] [Server thread/INFO]: _3YF issued server command: /m Kafoking oh
+2021-02-07 07:57:49	
+[12:57:49] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i payed for 3yf
+2021-02-07 07:56:59	
+[12:56:59] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: my internet isnt that god
+2021-02-07 07:56:45	
+[12:56:45] [Server thread/INFO]: _3YF issued server command: /m Kafoking when i bout a rank it was instant
+2021-02-07 07:56:30	
+[12:56:30] [Server thread/INFO]: _3YF issued server command: /m Kafoking ok
+2021-02-07 07:56:20	
+[12:56:20] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: oh i now why it isnt working it says u nead to wait 5 min
+2021-02-07 07:56:08	
+[12:56:08] [Server thread/INFO]: _3YF issued server command: /msg Kafoking for the user name did you do _3YF
+2021-02-07 07:55:49	
+[12:55:49] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: what i did pay
+2021-02-07 07:55:43	
+[12:55:43] [Server thread/INFO]: _3YF issued server command: /msg Kafoking i still dont
+2021-02-07 07:54:52	
+[12:54:51] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: try again
+2021-02-07 07:54:44	
+[12:54:44] [Server thread/INFO]: _3YF issued server command: /m Kafoking i dont have it
+2021-02-07 07:54:08	
+[12:54:08] [Server thread/INFO]: _3YF issued server command: /m Kafoking k
+2021-02-07 07:53:56	
+[12:53:55] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i did u nead to leave and join
+2021-02-07 07:53:03	
+[12:53:03] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok im going on the website
+2021-02-07 07:53:03	
+[12:53:03] [Server thread/INFO]: Kafoking issued server command: /msg _3YF ok im going on the website
+2021-02-07 07:52:59	
+[12:52:58] [Server thread/INFO]: _3YF issued server command: /m Kafoking i paid
+2021-02-07 07:52:59	
+[12:52:58] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: i paid
+2021-02-07 07:52:48	
+[12:52:48] [Server thread/INFO]: _3YF issued server command: /pay Kafoking 9000000
+2021-02-07 07:52:26	
+[12:52:26] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok pay
+2021-02-07 07:52:26	
+[12:52:26] [Server thread/INFO]: Kafoking issued server command: /m _3YF ok pay
+2021-02-07 07:52:13	
+[12:52:13] [ArkJs Bukkit Executor - 9/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ok
+2021-02-07 07:52:13	
+[12:52:13] [Server thread/INFO]: _3YF issued server command: /m Kafoking ok
+2021-02-07 07:52:06	
+[12:52:06] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: hello
+2021-02-07 07:52:06	
+[12:52:06] [Server thread/INFO]: Kafoking issued server command: /msg _3YF hello
+2021-02-07 07:51:32	
+[12:51:31] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i promise
+2021-02-07 07:51:32	
+[12:51:31] [Server thread/INFO]: Kafoking issued server command: /m _3YF i promise
+2021-02-07 07:51:26	
+[12:51:26] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: you Promis you whont scam
+2021-02-07 07:51:26	
+[12:51:26] [Server thread/INFO]: _3YF issued server command: /m Kafoking you Promis you whont scam
+2021-02-07 07:51:21	
+[12:51:20] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok
+2021-02-07 07:51:21	
+[12:51:20] [Server thread/INFO]: Kafoking issued server command: /msg _3YF ok
+2021-02-07 07:51:12	
+[12:51:12] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: i hate scammers they are so fu#&) bad
+2021-02-07 07:51:12	
+[12:51:12] [Server thread/INFO]: Kafoking issued server command: /msg _3YF i hate scammers they are so fu#&) bad
+2021-02-07 07:51:04	
+[12:51:03] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ok ima pay you then you give me the lbux
+2021-02-07 07:51:04	
+[12:51:03] [Server thread/INFO]: _3YF issued server command: /m Kafoking ok ima pay you then you give me the lbux
+2021-02-07 07:50:38	
+[12:50:38] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: no i got scammed a few months ago
+2021-02-07 07:50:38	
+[12:50:38] [Server thread/INFO]: Kafoking issued server command: /m _3YF no i got scammed a few months ago
+2021-02-07 07:50:24	
+[12:50:23] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: are you going to scam
+2021-02-07 07:50:24	
+[12:50:23] [Server thread/INFO]: _3YF issued server command: /m Kafoking are you going to scam
+2021-02-07 07:50:11	
+[12:50:11] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: yea but i nead payment frist cuz im paying real life money on the website
+2021-02-07 07:50:11	
+[12:50:11] [Server thread/INFO]: Kafoking issued server command: /m _3YF yea but i nead payment frist cuz im paying real life money on the website
+2021-02-07 07:49:42	
+[12:49:42] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: so if you give me 5k lbux ill give you 9Mill Right?
+2021-02-07 07:49:42	
+[12:49:42] [Server thread/INFO]: _3YF issued server command: /m Kafoking so if you give me 5k lbux ill give you 9Mill Right?
+2021-02-07 07:49:04	
+[12:49:04] [Server thread/INFO]: Kafoking issued server command: /tpa _3YF
+2021-02-07 07:48:53	
+[12:48:53] [Server thread/INFO]: _3YF issued server command: /m Kafoking tpa
+2021-02-07 07:48:53	
+[12:48:53] [ArkJs Bukkit Executor - 10/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: tpa
+2021-02-07 07:48:29	
+[12:48:29] [Server thread/INFO]: Kafoking issued server command: /m _3YF ok pay
+2021-02-07 07:48:29	
+[12:48:29] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok pay
+2021-02-07 07:48:22	
+[12:48:22] [Server thread/INFO]: _3YF issued server command: /m Kafoking ya
+2021-02-07 07:48:22	
+[12:48:22] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ya
+2021-02-07 07:48:17	
+[12:48:17] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: hello are you there
+2021-02-07 07:48:17	
+[12:48:17] [Server thread/INFO]: Kafoking issued server command: /msg _3YF hello are you there
+2021-02-07 07:47:27	
+[12:47:27] [Server thread/INFO]: Kafoking issued server command: /msg _3YF pay or no deal
+2021-02-07 07:47:27	
+[12:47:27] [ArkJs Bukkit Executor - 4/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: pay or no deal
+2021-02-07 07:47:14	
+[12:47:14] [Server thread/INFO]: Kafoking issued server command: /msg _3YF so pay or no deal
+2021-02-07 07:46:51	
+[12:46:51] [Server thread/INFO]: Kafoking issued server command: /m _3YF ok
+2021-02-07 07:46:51	
+[12:46:51] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok
+2021-02-07 07:46:43	
+[12:46:43] [Server thread/INFO]: _3YF issued server command: /m Kafoking what where doing now
+2021-02-07 07:46:43	
+[12:46:43] [ArkJs Bukkit Executor - 6/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: what where doing now
+2021-02-07 07:46:34	
+[12:46:34] [Server thread/INFO]: Kafoking issued server command: /m _3YF what is that
+2021-02-07 07:46:34	
+[12:46:34] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: what is that
+2021-02-07 07:46:24	
+[12:46:24] [ArkJs Bukkit Executor - 10/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ima just youse mc chat
+2021-02-07 07:46:24	
+[12:46:24] [Server thread/INFO]: _3YF issued server command: /m Kafoking ima just youse mc chat
+2021-02-07 07:46:09	
+[12:46:09] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: add me kafoking #1456
+2021-02-07 07:46:09	
+[12:46:09] [Server thread/INFO]: Kafoking issued server command: /msg _3YF add me kafoking #1456
+2021-02-07 07:46:02	
+[12:46:02] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: y
+2021-02-07 07:46:02	
+[12:46:02] [Server thread/INFO]: _3YF issued server command: /m Kafoking y
+2021-02-07 07:45:50	
+[12:45:49] [Server thread/INFO]: Kafoking issued server command: /m _3YF do u have discord
+2021-02-07 07:45:50	
+[12:45:49] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: do u have discord
+2021-02-07 07:45:38	
+[12:45:38] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: yea
+2021-02-07 07:45:38	
+[12:45:38] [Server thread/INFO]: Kafoking issued server command: /m _3YF yea
+2021-02-07 07:45:38	
+[12:45:37] [Server thread/INFO]: _3YF issued server command: /m Kafoking ok
+2021-02-07 07:45:37	
+[12:45:37] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ok
+2021-02-07 07:45:33	
+[12:45:33] [Server thread/INFO]: Kafoking issued server command: /msg _3YF so want or no
+2021-02-07 07:45:33	
+[12:45:33] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: so want or no
+2021-02-07 07:45:31	
+[12:45:31] [ArkJs Bukkit Executor - 14/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: do you know how to give me the lbux
+2021-02-07 07:45:31	
+[12:45:31] [Server thread/INFO]: _3YF issued server command: /m Kafoking do you know how to give me the lbuxShow context
+2021-02-07 07:45:07	
+[12:45:07] [Server thread/INFO]: Kafoking issued server command: /m _3YF ok
+2021-02-07 07:45:07	
+[12:45:07] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: ok
+2021-02-07 07:45:01	
+[12:45:01] [Server thread/INFO]: _3YF issued server command: /m Kafoking ill pay 9 mill for 5k lbux
+2021-02-07 07:45:01	
+[12:45:01] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: ill pay 9 mill for 5k lbux
+2021-02-07 07:44:45	
+[12:44:45] [Server thread/INFO]: Kafoking issued server command: /m _3YF 10m or 8m
+2021-02-07 07:44:45	
+[12:44:45] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: 10m or 8m
+2021-02-07 07:43:31	
+[12:43:31] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: how much for 5k lbux
+2021-02-07 07:43:31	
+[12:43:31] [Server thread/INFO]: _3YF issued server command: /m Kafoking how much for 5k lbux
+2021-02-07 07:43:04	
+[12:43:04] [Server thread/INFO]: _3YF issued server command: /m Kafoking how much for 5k lbux
+2021-02-07 07:43:04	
+[12:43:04] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: how much for 5k lbux
+2021-02-07 07:42:53	
+[12:42:53] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: 5k
+2021-02-07 07:42:53	
+[12:42:53] [Server thread/INFO]: Kafoking issued server command: /m _3YF 5k
+2021-02-07 07:42:41	
+[12:42:41] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: _3YF to Kafoking: how much
+2021-02-07 07:42:41	
+[12:42:41] [Server thread/INFO]: _3YF issued server command: /m Kafoking how much
+2021-02-07 07:42:35	
+[12:42:35] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: Kafoking to _3YF: selling lbux
+2021-02-07 07:42:35	
+[12:42:35] [Server thread/INFO]: Kafoking issued server command: /msg _3YF selling lbux
