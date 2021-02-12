@@ -1,0 +1,206 @@
+Grafana
+
+Explore
+Loki
+
+Metrics
+
+Logs
+
+ Split
+
+Last 2 days
+
+
+ Clear All
+
+ Run Query
+
+  Live
+Log labels
+{﻿server﻿=~﻿"(spawn|zone).*"﻿}﻿ ﻿|﻿="_Foxxer" ﻿|﻿="VacatedPanda142"
+Line limit
+auto
+9.2s
+
+
+
+ Add query
+
+ Query history
+Logs
+02/10 14:0002/10 16:0002/10 18:0002/10 20:0002/10 22:0002/11 00:0002/11 02:0002/11 04:0002/11 06:0002/11 08:0002/11 10:0002/11 12:0002/11 14:0002/11 16:0002/11 18:0002/11 20:0002/11 22:0002/12 00:0002/12 02:0002/12 04:0002/12 06:0002/12 08:0002/12 10:0002/12 12:0002468
+info
+Time
+
+Unique labels
+
+Wrap lines
+
+Dedup
+
+none
+
+exact
+
+numbers
+
+signature
+Common labels:
+server_logs
+Limit:
+1000 (76 returned)
+Total bytes processed:
+2 GB
+2021-02-12 07:20:02	
+[12:20:02] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 hi
+2021-02-12 07:19:56	
+[12:19:56] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: OK done
+2021-02-12 07:19:56	
+[12:19:56] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer OK done
+2021-02-12 07:19:49	
+[12:19:49] [ArkJs Bukkit Executor - 10/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok wait
+2021-02-12 07:19:49	
+[12:19:49] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok wait
+2021-02-12 07:19:48	
+[12:19:47] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: put that in
+2021-02-12 07:19:48	
+[12:19:47] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 put that in
+2021-02-12 07:19:43	
+[12:19:43] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: _Foxxer
+2021-02-12 07:19:43	
+[12:19:43] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 _Foxxer
+2021-02-12 07:19:30	
+[12:19:30] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: and ur name??
+2021-02-12 07:19:30	
+[12:19:30] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer and ur name??
+2021-02-12 07:19:22	
+[12:19:22] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok
+2021-02-12 07:19:22	
+[12:19:22] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok
+2021-02-12 07:19:17	
+[12:19:17] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: i know and then??
+2021-02-12 07:19:17	
+[12:19:17] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer i know and then??
+2021-02-12 07:19:16	
+[12:19:16] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: and click gift 1k
+2021-02-12 07:19:16	
+[12:19:16] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 and click gift 1k
+2021-02-12 07:19:10	
+[12:19:10] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: go to lbux
+2021-02-12 07:19:10	
+[12:19:10] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 go to lbux
+2021-02-12 07:19:04	
+[12:19:04] [ArkJs Bukkit Executor - 7/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: im there so how do i give them???
+2021-02-12 07:19:04	
+[12:19:04] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer im there so how do i give them???
+2021-02-12 07:18:17	
+[12:18:16] [ArkJs Bukkit Executor - 5/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: i am
+2021-02-12 07:18:17	
+[12:18:16] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 i am
+2021-02-12 07:18:13	
+[12:18:13] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok wait
+2021-02-12 07:18:13	
+[12:18:13] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok wait
+2021-02-12 07:18:02	
+[12:18:02] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: and for 2 more i want 1 more k
+2021-02-12 07:18:02	
+[12:18:02] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 and for 2 more i want 1 more k
+2021-02-12 07:17:56	
+[12:17:56] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: yes wait
+2021-02-12 07:17:56	
+[12:17:56] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer yes wait
+2021-02-12 07:17:51	
+[12:17:51] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: wait
+2021-02-12 07:17:51	
+[12:17:51] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer wait
+2021-02-12 07:17:49	
+[12:17:49] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: ok can i have 1k right now
+2021-02-12 07:17:49	
+[12:17:49] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 ok can i have 1k right now
+2021-02-12 07:17:37	
+[12:17:37] [Server thread/INFO]: [ArkJs|patches/slash/trade] _Foxxer (272e4250-07cd-4c42-967f-24a453dc9ef7) completed a trade with VacatedPanda142 (33c7b3ec-02a8-4b35-b2a2-b02d80ce6f4b): _Foxxer's money={0}, items={ItemStack{ELYTRA x 1, UNSPECIFIC_META:{meta-type=UNSPECIFIC, lore=[{"extra":[{"bold":false,"italic":false,"underlined":false,"strikethrough":false,"obfuscated":false,"color":"gray","text":"▎ Mending I"}],"text":""}], enchants={MENDING=1}, repair-cost=1, ItemFlags=[HIDE_ENCHANTS], internal=H4sIAAAAAAAAAAXBQQrCMBAF0I9u1K3nGEjHmkkWrnqQEpMpBG1TEiIIHt73LsAJ59R3nXvPCY+plFfWNtW+PhsN1ribd8bxz/vIaiVQFGEa7z5SSIHJ2mVwLCpmGY+4pu8W1hzfper80dpy2QAc8Ae0MtRgaQAAAA==}},,,,,,,,,,,,,,,} | VacatedPanda142's money={0}, items={,,,,,,,,,,,,,,,}
+2021-02-12 07:17:22	
+[12:17:22] [Server thread/INFO]: VacatedPanda142 issued server command: /trade _Foxxer
+2021-02-12 07:17:20	
+[12:17:19] [Server thread/INFO]: _Foxxer issued server command: /trade VacatedPanda142
+2021-02-12 07:17:15	
+[12:17:15] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok
+2021-02-12 07:17:15	
+[12:17:15] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok
+2021-02-12 07:17:09	
+[12:17:09] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: im trying to be safe
+2021-02-12 07:17:09	
+[12:17:09] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 im trying to be safe
+2021-02-12 07:17:00	
+[12:17:00] [ArkJs Bukkit Executor - 12/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: once you do that i will give you 2 elytras also i will give 1 elytra
+2021-02-12 07:17:00	
+[12:17:00] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 once you do that i will give you 2 elytras also i will give 1 elytra
+2021-02-12 07:16:53	
+[12:16:53] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok i will do that just first give me the elytra
+2021-02-12 07:16:53	
+[12:16:53] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok i will do that just first give me the elytra
+2021-02-12 07:16:33	
+[12:16:32] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: you must buy me the Lbux as a gift
+2021-02-12 07:16:33	
+[12:16:32] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 you must buy me the Lbux as a gift
+2021-02-12 07:16:17	
+[12:16:17] [ArkJs Bukkit Executor - 18/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: no how do i give you the Lbux
+2021-02-12 07:16:17	
+[12:16:17] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer no how do i give you the Lbux
+2021-02-12 07:16:16	
+[12:16:16] [ArkJs Bukkit Executor - 16/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: you must gift from store
+2021-02-12 07:16:16	
+[12:16:16] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 you must gift from store
+2021-02-12 07:16:04	
+[12:16:03] [ArkJs Bukkit Executor - 15/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: you cant transfer
+2021-02-12 07:16:04	
+[12:16:03] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 you cant transfer
+2021-02-12 07:15:54	
+[12:15:54] [ArkJs Bukkit Executor - 3/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: give then and i will transfer the Lbux but idk how to transer them
+2021-02-12 07:15:54	
+[12:15:54] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer give then and i will transfer the Lbux but idk how to transer them
+2021-02-12 07:15:32	
+[12:15:32] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: ok now what
+2021-02-12 07:15:32	
+[12:15:32] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 ok now what
+2021-02-12 07:15:11	
+[12:15:11] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: stay back
+2021-02-12 07:15:11	
+[12:15:11] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 stay back
+2021-02-12 07:14:55	
+[12:14:55] [ArkJs Bukkit Executor - 13/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: can i go get them
+2021-02-12 07:14:55	
+[12:14:55] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 can i go get them
+2021-02-12 07:14:53	
+[12:14:53] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: ok come
+2021-02-12 07:14:53	
+[12:14:53] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer ok come
+2021-02-12 07:14:43	
+[12:14:43] [ArkJs Bukkit Executor - 0/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: also i have my elytras in a shulker
+2021-02-12 07:14:43	
+[12:14:43] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 also i have my elytras in a shulker
+2021-02-12 07:14:27	
+[12:14:27] [ArkJs Bukkit Executor - 1/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: now what
+2021-02-12 07:14:27	
+[12:14:27] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 now what
+2021-02-12 07:14:12	
+[12:14:12] [Server thread/INFO]: _Foxxer issued server command: /tpa VacatedPanda142 now waht
+2021-02-12 07:13:56	
+[12:13:56] [Server thread/INFO]: _Foxxer issued server command: /tpa VacatedPanda142
+2021-02-12 07:13:45	
+[12:13:45] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer lets do /trade
+2021-02-12 07:13:45	
+[12:13:45] [ArkJs Bukkit Executor - 8/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: lets do /trade
+2021-02-12 07:13:31	
+[12:13:30] [ArkJs Bukkit Executor - 2/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: ok how will this work
+2021-02-12 07:13:30	
+[12:13:30] [Server thread/INFO]: _Foxxer issued server command: /m VacatedPanda142 ok how will this work
+2021-02-12 07:13:19	
+[12:13:19] [Server thread/INFO]: VacatedPanda142 issued server command: /m _Foxxer yes
+2021-02-12 07:13:19	
+[12:13:19] [ArkJs Bukkit Executor - 11/INFO]: [ArkJs|patches/slash/pm] messaging: VacatedPanda142 to _Foxxer: yesShow context
+2021-02-12 07:13:10	
+[12:13:09] [Server thread/INFO]: _Foxxer issued server command: /msg VacatedPanda142 can i do 3 elytras for 2k
+2021-02-12 07:13:09	
+[12:13:09] [ArkJs Bukkit Executor - 19/INFO]: [ArkJs|patches/slash/pm] messaging: _Foxxer to VacatedPanda142: can i do 3 elytras for 2k
